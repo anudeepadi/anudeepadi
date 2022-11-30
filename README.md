@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/anudeepadi" target="blank"><img src="https://img.shields.io/twitter/follow/anudeepadi?logo=twitter&style=for-the-badge" alt="anudeepadi" /></a> </p>
 
-- 🌱 I’m currently learning **Big Data and Machine Learning**
+- 🌱 I’m currently learning **Big Data and deep Learning**
 
 - 💬 Ask me about **AWS, Hadoop and Python**
 
