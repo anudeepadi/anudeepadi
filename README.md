@@ -11,13 +11,13 @@ You can click the Preview link to take a look at your changes.
  -->
  
  <h1 align="center">Hi 👋, I'm Anudeep Adiraju</h1>
-<h3 align="center">An Full-Stack Developer from India</h3>
+<h3 align="center">An Full-Stack Developer and an Deep Learning enthusiast from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anudeepadi" alt="anudeepadi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/anudeepadi" target="blank"><img src="https://img.shields.io/twitter/follow/anudeepadi?logo=twitter&style=for-the-badge" alt="anudeepadi" /></a> </p>
 
-- 🌱 I’m currently learning **Big Data and deep Learning**
+- 🌱 I’m currently learning **Big Data and Deep Learning**
 
 - 💬 Ask me about **AWS, Hadoop and Python**
 
