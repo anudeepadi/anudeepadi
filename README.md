@@ -71,9 +71,3 @@ I'm a Software Engineer specializing in distributed systems and cloud architectu
 - Email: adiraju.adi@outlook.com
 - LinkedIn: [linkedin.com/in/adirajuadi](https://linkedin.com/in/adirajuadi)
 - GitHub: [github.com/anudeepadi](https://github.com/anudeepadi)
-
----
-
-<p align="center">
-  <img src="https://stats.quine.sh/anudeepadi/dependencies?theme=dark" alt="anudeepadi's GitHub | Dependencies" />
-</p>
