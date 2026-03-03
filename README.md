@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Adi</h1>
+<h1 align="center">Hi, I'm Adi 👋</h1>
 
 <p align="center">
-  <b>Austin, TX</b> | <b>AI & Backend Engineer</b> | <b>Research Scientist @ UTSA</b>
+  <b>📍 Austin, TX</b> | <b>🤖 Autonomous systems builder</b> | <b>🚀 Research Scientist @ UTSA</b>
 </p>
 
 <p align="center">
@@ -14,16 +14,21 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-> Deep in the autonomous systems rabbit hole. I spend my time building infrastructure that makes AI models actually useful for healthcare, business ops, and personal automation. 
+> Deep in the autonomous systems rabbit hole. Building infrastructure that makes AI models actually useful for healthcare, business ops, and personal automation at ludicrous speed. 
 
 ## Current Projects
 
-- **[EzMsg SDK](https://github.com/anudeepadi/ezmsg)** - Open-source clinical messaging framework built for behavioral health interventions.
-- **Jarvis OS** - My personal AI operating system. A local, multi-provider agent swarm managing my daily tasks, server crons, and data analysis via OpenClaw.
-- **QuitTxt** - Healthcare platform leveraging RAG pipelines to deliver cognitive behavioral counseling for smoking cessation.
-- **PINNs Global** - Physics-informed neural networks monitoring global seismic events, mapped in real-time 3D using WebGL and Cesium.
-- **Job Tracker** - AI-powered job search and tracking platform with automated resume tailoring and analytics.
-- **Annapurna Dashboard** - Automated financial dashboard and receipt OCR scanner for small business expense tracking.
+- 🏥 **[EzMsg](https://github.com/anudeepadi/EzMsg---Messaging-Protocol-Management-System)** - Open-source clinical messaging framework built for behavioral health interventions.
+- 🌊 **[claude-flow](https://github.com/anudeepadi/claude-flow)** - The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms and coordinate autonomous workflows.
+- 🌍 **[PINNs Global](https://github.com/anudeepadi/PINN-Seismic---Real-Time-Tsunami-Warning-System)** - Physics-informed ML monitoring global seismic events mapped in real-time 3D.
+- 🤖 **[AI Agent Systems](https://github.com/anudeepadi/AI-Agent-Systems)** - Production-ready AI agent architectures optimized for high-performance enterprise environments.
+- 🧠 **[personal-brain-mcp](https://github.com/anudeepadi/personal-brain-mcp)** - A multimodal RAG personal brain API with MCP integration for Claude Desktop.
+- 📈 **[QuantStream](https://github.com/anudeepadi/QuantStream-Analytics-Platform)** - Real-time analytics platform for quantitative data processing and machine learning.
+- 🗄️ **[veda_backend](https://github.com/anudeepadi/veda_backend)** - FastAPI REST API for managing and delivering Rig Veda texts, Sanskrit transliteration, and audio.
+- 🎓 **[UTSA Social](https://github.com/anudeepadi/UTSA-Social)** - Next-gen campus social platform using Next.js and MongoDB for real-time student engagement.
+- 🚢 **[Port-to-Rail-Surge-Forecaster](https://github.com/anudeepadi/Port-to-Rail-Surge-Forecaster)** - GPU-accelerated pipeline for predicting port surges and optimizing freight logistics.
+- 🏎️ **[cache_opt](https://github.com/anudeepadi/cache_opt)** - Advanced caching strategies for attention mechanisms and intermediate computations in transformer architectures.
+- 🪪 **[texas-dps-scheduler](https://github.com/anudeepadi/texas-dps-scheduler)** - Texas DPS/DMV Automatic Scheduler.
 
 ## What I'm Doing
 
@@ -33,9 +38,9 @@
 
 ## Connect
 
-- [anudeepadi.com](https://anudeepadi.com)
-- [LinkedIn](https://linkedin.com/in/adirajuadi)
-- [GitHub](https://github.com/anudeepadi)
+- 🌐 [anudeepadi.com](https://anudeepadi.com)
+- 💼 [LinkedIn](https://linkedin.com/in/adirajuadi)
+- 💻 [GitHub](https://github.com/anudeepadi)
 
 ## Philosophy
 
