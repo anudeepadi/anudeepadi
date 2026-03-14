@@ -19,16 +19,13 @@
 ## Current Projects
 
 - 🏥 **[EzMsg](https://github.com/anudeepadi/EzMsg---Messaging-Protocol-Management-System)** - Open-source clinical messaging framework built for behavioral health interventions.
-- 🌊 **[claude-flow](https://github.com/anudeepadi/claude-flow)** - The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms and coordinate autonomous workflows.
 - 🌍 **[PINNs Global](https://github.com/anudeepadi/PINN-Seismic---Real-Time-Tsunami-Warning-System)** - Physics-informed ML monitoring global seismic events mapped in real-time 3D.
 - 🤖 **[AI Agent Systems](https://github.com/anudeepadi/AI-Agent-Systems)** - Production-ready AI agent architectures optimized for high-performance enterprise environments.
 - 🧠 **[personal-brain-mcp](https://github.com/anudeepadi/personal-brain-mcp)** - A multimodal RAG personal brain API with MCP integration for Claude Desktop.
 - 📈 **[QuantStream](https://github.com/anudeepadi/QuantStream-Analytics-Platform)** - Real-time analytics platform for quantitative data processing and machine learning.
-- 🗄️ **[veda_backend](https://github.com/anudeepadi/veda_backend)** - FastAPI REST API for managing and delivering Rig Veda texts, Sanskrit transliteration, and audio.
 - 🎓 **[UTSA Social](https://github.com/anudeepadi/UTSA-Social)** - Next-gen campus social platform using Next.js and MongoDB for real-time student engagement.
 - 🚢 **[Port-to-Rail-Surge-Forecaster](https://github.com/anudeepadi/Port-to-Rail-Surge-Forecaster)** - GPU-accelerated pipeline for predicting port surges and optimizing freight logistics.
 - 🏎️ **[cache_opt](https://github.com/anudeepadi/cache_opt)** - Advanced caching strategies for attention mechanisms and intermediate computations in transformer architectures.
-- 🪪 **[texas-dps-scheduler](https://github.com/anudeepadi/texas-dps-scheduler)** - Texas DPS/DMV Automatic Scheduler.
 
 ## What I'm Doing
 
