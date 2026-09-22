@@ -1,26 +1,26 @@
 # Anudeep Adiraju
 
-I build AI applications, retrieval systems, and developer tools with Python and TypeScript. My projects explore how models connect to useful interfaces, persistent data, and measurable evaluation workflows.
+**AI engineer and product builder working on retrieval, agent tools, and evaluation.**
 
-[Portfolio](https://anudeepadi.com) · [LinkedIn](https://linkedin.com/in/adirajuadi)
+I build with Python, TypeScript, and C++, connecting AI models to persistent data and usable applications.
 
-## Selected projects
+[Portfolio](https://www.anudeepadi.com) · [LinkedIn](https://www.linkedin.com/in/adirajuadi/)
 
-| Project | What it explores | Main technologies |
-| --- | --- | --- |
-| [UGC Forge](https://github.com/anudeepadi/ugc-forge) | Campaign-to-video workflow with a browser demo, asynchronous workers, and replaceable generation providers | React, TypeScript, FastAPI, Celery, PostgreSQL |
-| [AKB1 Command Center](https://github.com/anudeepadi/AKB1-Command-Center) | Delivery-planning tools, persistent drafts, and streaming AI chat in a single-service application | React, Express, SQLite |
-| [Quitxt RAG Evaluation](https://github.com/anudeepadi/quit-txt-rag-eval) | Retrieval evaluation, held-out analysis, and reproducible reporting methods; study data is supplied separately | Python, RAGAS, ChromaDB, SciPy |
-| [Personal Brain MCP](https://github.com/anudeepadi/personal-brain-mcp) | Document retrieval and conversation memory exposed through MCP and an HTTP API | Python, FastAPI, MCP, Pinecone |
-| [SCRAPE](https://github.com/anudeepadi/SCRAPE-Neural-Extraction-Engine) | A common extraction API across browser and service adapters, with streaming progress | Python, FastAPI, Crawl4AI, Scrapy |
-| [LSTM from Scratch](https://github.com/anudeepadi/lstmcpp) | An educational implementation of recurrent-network mechanics without an ML framework | C++ |
+## Selected work
 
-These projects span prototypes, research code, and learning implementations. Their READMEs explain setup requirements, architecture, and current limitations; a demo is distinct from a production deployment or a benchmark result.
+### [ContextOS — Organizational Memory](https://github.com/anudeepadi/personal-brain-mcp)
+Document retrieval and conversation memory for AI assistants, exposed through MCP and FastAPI.
 
-## Engineering interests
+### [Quitxt Eval](https://github.com/anudeepadi/quit-txt-rag-eval)
+Research code for evaluating retrieval, answer quality, and latency in smoking-cessation question answering. Study data is supplied separately.
 
-- **AI systems:** retrieval, tool interfaces, model integration, and evaluation.
-- **Application engineering:** typed APIs, asynchronous jobs, persistence, and usable interfaces.
-- **Evidence:** clear experimental controls, inspectable outputs, and claims that match the implementation.
+### [UGC Forge](https://github.com/anudeepadi/ugc-forge)
+A campaign-planning prototype that turns a brief into sample scripts and a review queue.
 
-My main working languages are Python, TypeScript, SQL, and C++. The repositories above are a focused starting point; the rest of the account includes experiments, earlier projects, and upstream forks.
+## More projects
+
+- [Web Extract API](https://github.com/anudeepadi/web-extract-api) — web content extraction across multiple engines, with streaming progress.
+- [Delivery Workbench](https://github.com/anudeepadi/delivery-workbench) — delivery planning, KPI calculators, risk tracking, and persistent drafts.
+- [LSTM from Scratch in C++](https://github.com/anudeepadi/lstm-from-scratch-cpp) — an educational recurrent network using the standard library.
+
+Each project documents its setup and current scope. For collaboration or engineering opportunities, [connect on LinkedIn](https://www.linkedin.com/in/adirajuadi/).
