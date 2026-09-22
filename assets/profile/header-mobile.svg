@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="510" viewBox="0 0 640 510" role="img" aria-labelledby="title"><title id="title">Anudeep Adiraju — AI engineer and product builder in Austin, Texas.</title><style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:Consolas,Menlo,monospace}</style><rect width="640" height="510" rx="18" fill="#172C50"/><text x="36" y="96" font-size="57" fill="#F2F7FF" font-weight="700" >Anudeep Adiraju</text><text x="38" y="142" font-size="27" fill="#C6DAF1" font-weight="400" >AI engineer &amp; product builder</text><text x="38" y="183" font-size="20" fill="#A8D9D1" font-weight="400" >Austin, Texas</text><g transform="translate(87 225) scale(0.9)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+ <path d="M54 58H137Q157 58 157 78V123H217M54 198H137Q157 198 157 178V123M291 123H352Q372 123 372 103V58H416M291 123H352Q372 123 372 143V198H416" stroke="#7CAFE2" stroke-width="3"/>
+ <path d="M451 230V260Q451 277 434 277H78Q54 277 54 253V230" stroke="#7CAFE2" stroke-width="2" stroke-dasharray="4 8" opacity=".6"/>
+ <rect x="3" y="24" width="103" height="68" rx="13" fill="#243E65" stroke="#658BB5"/>
+ <rect x="3" y="164" width="103" height="68" rx="13" fill="#243E65" stroke="#658BB5"/>
+ <rect x="209" y="79" width="93" height="88" rx="22" fill="#A8D9D1" stroke="#A8D9D1"/>
+ <rect x="398" y="24" width="103" height="68" rx="13" fill="#243E65" stroke="#658BB5"/>
+ <rect x="398" y="164" width="103" height="68" rx="13" fill="#243E65" stroke="#658BB5"/>
+ <path d="M236 113L254 103L273 114V136L254 147L236 136ZM254 125V146M237 114L254 125L272 114" stroke="#1B4251" stroke-width="2.5"/>
+ <circle cx="158" cy="123" r="5" fill="#F7B39A" stroke="none"/><circle cx="371" cy="123" r="5" fill="#F7B39A" stroke="none"/>
+ <text x="54" y="66" font-size="18" fill="#E8F2FF" font-weight="400" text-anchor="middle">context</text>
+ <text x="54" y="206" font-size="18" fill="#E8F2FF" font-weight="400" text-anchor="middle">memory</text>
+ <text x="449" y="66" font-size="18" fill="#E8F2FF" font-weight="400" text-anchor="middle">tools</text>
+ <text x="449" y="206" font-size="18" fill="#E8F2FF" font-weight="400" text-anchor="middle">evals</text>
+ </g></svg>

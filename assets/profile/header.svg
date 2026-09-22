@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title"><title id="title">Anudeep Adiraju — AI engineer and product builder in Austin, Texas. Working across context, memory, tools and evaluations.</title><style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:Consolas,Menlo,monospace}</style><rect width="1200" height="380" rx="20" fill="#172C50"/>
+<defs><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#35547D"/></pattern></defs>
+<path d="M606 0H1180Q1200 0 1200 20V360Q1200 380 1180 380H606Z" fill="url(#dots)"/>
+<path d="M46 44H92" stroke="#A8D9D1" stroke-width="5" stroke-linecap="round"/>
+<text x="46" y="130" font-size="82" fill="#F2F7FF" font-weight="700" >Anudeep</text><text x="46" y="217" font-size="82" fill="#F2F7FF" font-weight="700" >Adiraju</text><text x="48" y="275" font-size="26" fill="#C6DAF1" font-weight="400" >AI engineer &amp; product builder</text><text x="48" y="335" font-size="18" fill="#A8D9D1" font-weight="400" >Austin, Texas</text><g transform="translate(649 36) scale(0.96)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+ <path d="M54 58H137Q157 58 157 78V123H217M54 198H137Q157 198 157 178V123M291 123H352Q372 123 372 103V58H416M291 123H352Q372 123 372 143V198H416" stroke="#7CAFE2" stroke-width="3"/>
+ <path d="M451 230V260Q451 277 434 277H78Q54 277 54 253V230" stroke="#7CAFE2" stroke-width="2" stroke-dasharray="4 8" opacity=".6"/>
+ <rect x="3" y="24" width="103" height="68" rx="13" fill="#243E65" stroke="#658BB5"/>
+ <rect x="3" y="164" width="103" height="68" rx="13" fill="#243E65" stroke="#658BB5"/>
+ <rect x="209" y="79" width="93" height="88" rx="22" fill="#A8D9D1" stroke="#A8D9D1"/>
+ <rect x="398" y="24" width="103" height="68" rx="13" fill="#243E65" stroke="#658BB5"/>
+ <rect x="398" y="164" width="103" height="68" rx="13" fill="#243E65" stroke="#658BB5"/>
+ <path d="M236 113L254 103L273 114V136L254 147L236 136ZM254 125V146M237 114L254 125L272 114" stroke="#1B4251" stroke-width="2.5"/>
+ <circle cx="158" cy="123" r="5" fill="#F7B39A" stroke="none"/><circle cx="371" cy="123" r="5" fill="#F7B39A" stroke="none"/>
+ <text x="54" y="66" font-size="18" fill="#E8F2FF" font-weight="400" text-anchor="middle">context</text>
+ <text x="54" y="206" font-size="18" fill="#E8F2FF" font-weight="400" text-anchor="middle">memory</text>
+ <text x="449" y="66" font-size="18" fill="#E8F2FF" font-weight="400" text-anchor="middle">tools</text>
+ <text x="449" y="206" font-size="18" fill="#E8F2FF" font-weight="400" text-anchor="middle">evals</text>
+ </g></svg>
