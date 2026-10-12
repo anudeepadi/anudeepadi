@@ -1,59 +1,51 @@
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/profile/header-mobile.svg">
-  <img src="assets/profile/header.svg" width="100%" alt="Anudeep Adiraju — AI engineer and product builder in Austin, Texas. Context, memory, tools and evaluations.">
-</picture>
+```text
+        .       *        .        +
 
-I build retrieval systems, agent tools, and the applications around them. My work connects models to persistent data, useful interfaces, and evaluations you can inspect.
+    _   _  _ _   _ ___  ___ ___ ___
+   /_\ | \| | | | |   \| __| __| _ \
+  / _ \| .` | |_| | |) | _|| _||  _/
+ /_/ \_\_|\_|\___/|___/|___|___|_|
 
-**[Visit my portfolio](https://www.anudeepadi.com/)** &nbsp; / &nbsp; **[Connect on LinkedIn](https://www.linkedin.com/in/adirajuadi/)**
+     A D I R A J U  /  A U S T I N
 
-### My toolkit
+       MEMORY / AGENTS / EVALS
+   .           +             .
+```
 
-`Python` &nbsp; `TypeScript` &nbsp; `C++` &nbsp; `React` &nbsp; `FastAPI` &nbsp; `MCP`
+I'm Anudeep, an AI engineer and product builder in Austin. I build retrieval systems, agent tools, and the applications around them. I like work you can inspect: a source passage, a tool call, an evaluation, a working interface.
 
-## Selected work
+[Portfolio: ten projects and their demos](https://www.heyadi.dev/work) · [LinkedIn](https://www.linkedin.com/in/adirajuadi/) · [Writing](https://medium.com/@anudeepadi)
 
-<a href="https://github.com/anudeepadi/personal-brain-mcp">
-  <picture>
-    <source media="(max-width: 600px)" srcset="assets/profile/contextos-mobile.svg">
-    <img src="assets/profile/contextos.svg" width="100%" alt="ContextOS — Organizational memory. Documents connected to retrieval and MCP tools.">
-  </picture>
-</a>
+## The lineup
 
-Document retrieval and conversation memory for AI assistants, exposed through MCP and FastAPI. Includes a runnable, provider-free walkthrough.
+### [ContextX — Organizational Memory](https://github.com/anudeepadi/personal-brain-mcp)
 
-[Explore ContextOS](https://github.com/anudeepadi/personal-brain-mcp) &nbsp; / &nbsp; [Read the walkthrough](https://github.com/anudeepadi/personal-brain-mcp/blob/main/examples/offline_walkthrough.py)
+Document retrieval and saved conversations through MCP and FastAPI. Start with the [provider-free walkthrough](https://github.com/anudeepadi/personal-brain-mcp/blob/main/examples/offline_walkthrough.py), or try the [browser citation demo](https://personal-brain-mcp-rho.vercel.app/). The demo matches words in synthetic notes and shows the source line.
 
-<a href="https://github.com/anudeepadi/quit-txt-rag-eval">
-  <picture>
-    <source media="(max-width: 600px)" srcset="assets/profile/quitxt-mobile.svg">
-    <img src="assets/profile/quitxt.svg" width="100%" alt="Quitxt Eval — Retrieval research. Retrieve, answer, evaluate.">
-  </picture>
-</a>
+### [Quitxt Eval](https://github.com/anudeepadi/quit-txt-rag-eval)
 
-Research code for evaluating retrieval, answer quality, and latency in smoking-cessation question answering. Try the synthetic example; study data is supplied separately.
+Research code for evaluating retrieval, answer quality, and latency in smoking-cessation question answering. The [synthetic example](https://github.com/anudeepadi/quit-txt-rag-eval/tree/master/examples) runs separately from the study data.
 
-[Explore Quitxt Eval](https://github.com/anudeepadi/quit-txt-rag-eval) &nbsp; / &nbsp; [See the synthetic example](https://github.com/anudeepadi/quit-txt-rag-eval/tree/master/examples)
+### [UGC Forge](https://github.com/anudeepadi/ugc-forge)
 
-<a href="https://github.com/anudeepadi/ugc-forge">
-  <picture>
-    <source media="(max-width: 600px)" srcset="assets/profile/ugc-mobile.svg">
-    <img src="assets/profile/ugc.svg" width="100%" alt="UGC Forge — Campaign planning. Brief, scripts, review.">
-  </picture>
-</a>
+A campaign-planning prototype: brief, sample scripts, review, and a simulated render queue. [Try the workflow](https://ugc-forge-rose.vercel.app/). It doesn't generate videos.
 
-A campaign-planning prototype that turns a brief into sample scripts and a review queue. Explore the workflow in the browser demo.
+### [Web Extract API](https://github.com/anudeepadi/web-extract-api)
 
-[Explore UGC Forge](https://github.com/anudeepadi/ugc-forge) &nbsp; / &nbsp; [Open the demo](https://ugc-forge-rose.vercel.app/)
+Multi-engine web extraction with cleaned content and streaming progress. The repository covers the API, browser adapters, and setup.
 
-### Also on my workbench
+### [Delivery Workbench](https://github.com/anudeepadi/delivery-workbench)
 
-| Project | What you'll find |
-| :--- | :--- |
-| [Web Extract API](https://github.com/anudeepadi/web-extract-api) | Multi-engine web extraction with streaming progress. |
-| [Delivery Workbench](https://github.com/anudeepadi/delivery-workbench) | Delivery planning, KPI calculators, risk tracking, and persistent drafts. |
-| [LSTM from Scratch in C++](https://github.com/anudeepadi/lstm-from-scratch-cpp) | An educational recurrent network using the standard library. |
+Delivery planning, capacity calculations, and saved drafts. The [standalone capacity demo](https://delivery-workbench-demo.vercel.app/) shows its formulas and saves locally in your browser; the full application uses React, Express, and SQLite.
+
+### [EzMsg](https://github.com/anudeepadi/ezmsg)
+
+Messaging protocols for research teams: templates, language variants, and conditional sequences. [Explore the public illustration](https://ezmsg-product.vercel.app/). Live study delivery is separate.
 
 ---
 
-Interested in building something together? **[Let's connect.](https://www.linkedin.com/in/adirajuadi/)**
+**On the wider bill:** [Polaris](https://www.heyadi.dev/work/polaris), [Gimmie](https://www.heyadi.dev/work/gimmie), [Field Notes](https://www.heyadi.dev/work/field-notes), [Vedam](https://www.heyadi.dev/work/vedam), [exec.ai](https://www.heyadi.dev/work/exec-ai), and [Purna](https://www.heyadi.dev/work/purna). Each case study explains my contribution and what you can try today.
+
+Python · TypeScript · C++ · React · FastAPI · MCP
+
+For the C++ side: [an LSTM built from the standard library](https://github.com/anudeepadi/lstm-from-scratch-cpp).
