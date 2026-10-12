@@ -1,16 +1,7 @@
-```text
-        .       *        .        +
-
-    _   _  _ _   _ ___  ___ ___ ___
-   /_\ | \| | | | |   \| __| __| _ \
-  / _ \| .` | |_| | |) | _|| _||  _/
- /_/ \_\_|\_|\___/|___/|___|___|_|
-
-     A D I R A J U  /  A U S T I N
-
-       MEMORY / AGENTS / EVALS
-   .           +             .
-```
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile/black-hole-still.png">
+  <img src="assets/profile/black-hole.gif" width="100%" alt="ASCII black hole: a dark center, flowing accretion disk, drifting stars and falling starlight.">
+</picture>
 
 I'm Anudeep, an AI engineer and product builder in Austin. I build retrieval systems, agent tools, and the applications around them. I like work you can inspect: a source passage, a tool call, an evaluation, a working interface.
 
