@@ -21,6 +21,10 @@ Research code for evaluating retrieval, answer quality, and latency in smoking-c
 
 A campaign-planning prototype: brief, sample scripts, review, and a simulated render queue. [Try the workflow](https://ugc-forge-rose.vercel.app/). It doesn't generate videos.
 
+### [FloodTrace](https://github.com/anudeepadi/floodtrace)
+
+A 3D reconstruction of the 2026 Langtang–Trishuli flood on real terrain. [Open the dashboard](https://floodtrace-delta.vercel.app/app/) and press Follow the flood. Times below the Gyirong crossing are modeled, and the app labels them that way.
+
 ### [Web Extract API](https://github.com/anudeepadi/web-extract-api)
 
 Multi-engine web extraction with cleaned content and streaming progress. The repository covers the API, browser adapters, and setup.
